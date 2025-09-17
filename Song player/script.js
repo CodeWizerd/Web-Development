@@ -118,10 +118,7 @@ loadsong(currentsongindex);
 
 backwd.addEventListener("click",()=>{
 
-    currentsongindex=currentsongindex + 1;
-    if(currentsongindex<0){
-        currentsongindex=songs.length-1;
-    }
+  currentsongindex=(currentsongindex+1) % songs.length;
 loadsong(currentsongindex);
 })
 
@@ -148,4 +145,5 @@ setInterval(() => {
 // audio.play();
 // setInterval(() => {
 //     val.value=audio.currentTime
+
 // }, 500);
