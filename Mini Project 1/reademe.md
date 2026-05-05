@@ -9,7 +9,7 @@ A simple full-stack app built with Node.js, Express, MongoDB and EJS while learn
 - Create and view posts
 - Protected routes with middleware
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Node.js / Express
 - MongoDB / Mongoose
 - EJS (templating)
