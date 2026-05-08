@@ -31,7 +31,7 @@ async function getImageBase64(imagePrompt) {
 
 async function download() {
     const prompt = document.getElementById("prompt").value.trim();
-    if (!prompt) { alert("Type a prompt first!"); return; }
+    if (!prompt) { alert("Type your prompt first!"); return; }
 
     const btn = document.querySelector("button");
     btn.textContent = "GENERATING...";
