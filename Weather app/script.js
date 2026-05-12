@@ -1,4 +1,4 @@
-const apikey=""
+const apikey="WEATHER_API_KEY"
 
 let svg=document.querySelector('svg')
 let p=document.querySelector("p")
