@@ -3,7 +3,7 @@
 
 This project is a high-speed, AI-powered engine designed to transform a single text prompt into a professional, multi-slide PowerPoint presentation. It integrates real-time LLM processing with dynamic media fetching and client-side document generation.
 
-🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 Component - Technology
 LLM Engine - Groq API (Llama 3.3 70B Versatile)
