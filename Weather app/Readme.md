@@ -1,2 +1,2 @@
-### A weather app
-By using wether api
+### A weather web
+By using weather api
